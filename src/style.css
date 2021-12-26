@@ -305,6 +305,7 @@ span {
 .portfolio-img img {
   width: 100%;
   display: block;
+  transition: all 0.8s;
 }
 .portfolio-img img:hover {
   transform: scale(1.1);
